@@ -6,6 +6,7 @@
 #include <GLES/gl.h>
 
 #include <android_native_app_glue.h>
+#include "render.h"
 
 /**
  * Initialize an EGL context for the current display.
